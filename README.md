@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-	<a href="https://github.com/sponsors/youshin/button" target="_blank" >
+	<a href="https://github.com/sponsors/Youshin" target="_blank" >
 	  <img src="https://img.shields.io/badge/Sponsor-Youshin-blue" alt="Sponsor @Youshin" />
 	</a>
 </p>
